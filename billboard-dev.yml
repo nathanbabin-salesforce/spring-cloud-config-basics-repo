@@ -7,5 +7,6 @@
 #
 # You can override any settings in the application.yml on the 
 # billboard.yml file from this file.
-
+server:
+  port: 8081
 message: "This is the dev profile - Hello Spring Cloud Config!"
